@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vang(JinJin)
-- 👀 I’m interested in ...(Developer)
-- 🌱 I’m currently learning ...(C#, HTML, CSS,..)
-- 💞️ I’m looking to collaborate on ... gitHub
+- 👀 I’m interested in Developer
+- 🌱 I’m currently learning  C#, HTML, CSS,..
+- 💞️ I' really love my Laptop because it help me in study and my work
 - 📫 How to reach me ...
 
 <!---
