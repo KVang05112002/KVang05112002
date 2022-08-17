@@ -1,6 +1,6 @@
 - 👋 xin chào tôi là K' Vảng có thể gọi tôi là JinJin
 - 👀 Tôi là Sinh viên ngành IT
-- 🌱 tôi chuyên về web (php, html, css, javascrip, ...)
+- 🌱 tôi chuyên về web ( html, css, javascrip, ...)
 - 💞️ Thôi thích thiết kế
 - 📫 How to reach me ...
 
